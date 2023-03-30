@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Moi!!
 
+=======
+ruichao guan heräsi aaamulla
+jkjkjkljkjh
+>>>>>>> c53139a0a2800c6fd866a9f3446a419a85627586

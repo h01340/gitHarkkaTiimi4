@@ -1,16 +1,1 @@
-<<<<<<< HEAD
-
-=======
-ruichao guan heräsi aaamulla
-jkjkjkljkjh
-
-
-
-
-Moi!!!!!!!!!!!!!!!!!!!!
-=======
-ruichao guan heräsi aaamulla
-jkjkjkljkjh
->>>>>>> c53139a0a2800c6fd866a9f3446a419a85627586
-koira
->>>>>>> d010289d01d75e95cfba75e67c002be7bae87377
+Kirjoitelkaa tänne asioita

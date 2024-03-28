@@ -1,8 +1,0 @@
-/*
- * tttttttttttttttttttttttttttttttttttttttttttttt
- * aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
- * 
- * aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
- * 
- * mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
- */

@@ -1,12 +1,3 @@
-// tttttttttttttttttttttt
+Kaksi tiimiläistä muokkaa yhtäaikaa tätä tiedostoa. 
 
-/*
- * aaaaaaaaaacc
- * c
- * 
- * c
- * c
- * acca
- * acca
- * aaaaaaaa
- */
+Ohjelmistoprojekti 1 kurssi on nyt aloitettu. Kovasti tuntuu olevan kaikennäköistä kurssin sisältönä. Ehkä homma selkenee tulevina viikkoina :) 

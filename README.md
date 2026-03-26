@@ -8,7 +8,7 @@ A. yritetään saada ns. konflikti aikaiseksi. Konfliktissa kaksi tai useampi he
 B. saadaan konflikti tilanne korjattua. 
 
 Tehtävän kuvaus
-Ota tämä projekti itsellesi git clone komennolla (git clone https://github.com/h01340/gitHarkkaTiimi5.git)
+Ota tämä projekti itsellesi git clone komennolla (git clone https://github.com/h01340/gitHarkkaTiimi4.git)
 
 A 
 1. Päivitä omalla koneellasi tiedostoa "UpdateMe.txt"

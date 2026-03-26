@@ -1,3 +1,5 @@
 Kaksi tiimiläistä muokkaa yhtäaikaa tätä tiedostoa. 
 
-Ohjelmistoprojekti 1 kurssi on nyt aloitettu. Kovasti tuntuu olevan kaikennäköistä kurssin sisältönä. Ehkä homma selkenee tulevina viikkoina :) 
+Ohjelmistoprojekti 1 kurssi on nyt aloitettu. Kovasti tuntuu olevan kaikennäköistä kurssin sisältönä. Ehkä homma selkenee tulevina viikkoina :)
+
+Tässä on Ari-Matin muokkaus!
